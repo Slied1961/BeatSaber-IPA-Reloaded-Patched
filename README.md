@@ -9,3 +9,6 @@ and drag in IPA.injector.dll into dnspy and go to whats showing in the original 
  and then click file, save all.
 
 Check out [https://github.com/Slied1961/ModAssistantPatched]
+
+
+Join my discord for support or questions - https://discord.gg/fd3Z8B9
